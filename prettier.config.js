@@ -14,6 +14,7 @@ module.exports = {
     '^layouts/(.*)$',
     '^atoms/(.*)$',
     '^components/(.*)$',
+    '^constants/(.*)$',
     '^views/(.*)$',
     '^store/(.*)$',
     '^utils/(.*)$',

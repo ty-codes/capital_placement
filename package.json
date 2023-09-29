@@ -3,10 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@ant-design/icons": "^5.0.1",
+    "@ant-design/icons": "^5.2.6",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
+    "@types/node": "^20.7.2",
+    "@types/react": "^18.2.23",
+    "@types/react-dom": "^18.2.8",
+    "@typescript-eslint/eslint-plugin": "^6.7.0",
+    "@typescript-eslint/parser": "^6.7.0",
     "axios": "^1.4.0",
     "bootstrap": "^5.2.1",
     "formik": "^2.2.9",
@@ -29,6 +34,7 @@
     "simple-react-modal": "^0.5.1",
     "styled-components": "^5.3.9",
     "sweetalert2": "^11.7.3",
+    "typescript": "^5.2.2",
     "web-vitals": "^2.1.4",
     "workbox-background-sync": "^6.5.3",
     "workbox-broadcast-update": "^6.5.3",
@@ -71,6 +77,7 @@
     ]
   },
   "devDependencies": {
+    "@types/styled-components": "^5.1.28",
     "prettier": "^3.0.3"
   }
 }

@@ -18,7 +18,7 @@ Users can:
 - View candidates🟢
 
 # Design
-- [Figma](https://capitalplacement.netlify.app)
+- [Figma](https://www.figma.com/file/2AEUzsQeLSF0uwI5vjYa6u/FE-Task-(Community)-(Copy)?type=design&t=vfHT9WZ7zNHVhQOq-6)
 
 # Hosted on
 - [Netlify](https://capitalplacement.netlify.app)

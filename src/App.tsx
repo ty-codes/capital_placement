@@ -30,7 +30,7 @@ function App() {
       secondaryColor: 'red',
       greyText: '#5a5a5a',
       grey100: '#cbcfd3',
-      background: 'rgba(215, 237, 253, 0.15)',
+      background: '#f7f8fd',
 
       // variables
       sideBarWidth: '6vw',
